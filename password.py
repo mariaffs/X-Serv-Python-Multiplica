@@ -16,5 +16,4 @@ for username in interesantes:
     except KeyError:
         print(username, "no existe")
 
-print("aaaaaaaaaaaaaaaaa")
 fichero.close()
